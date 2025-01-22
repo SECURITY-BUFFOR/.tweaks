@@ -1,0 +1,89 @@
+.navbar {
+  background-color: #c0c0c0 !important;
+  border-bottom: 2px solid rgb(0,0,0) ;
+}
+
+a {
+  color: black !important;
+}
+
+.btn {
+  background-color: #c0c0c0 !important;
+  border-radius: 0px;
+  border-color: black;
+  border-width: 2px;
+  color: black !important;
+  box-shadow: inset 0px 0px 0px 1px #B3B3B3;
+}
+
+.btn:hover {
+  color: #ff00ff !important;
+  border-color: #ff00ff;
+}
+
+.bs-icon-lg.bs-icon-rounded.bs-icon-primary.bs-icon.lg {
+  background-color: transparent;
+}
+
+body {
+  background-color: #000000;
+}
+
+.form-control {
+  background-color: #c0c0c0;
+  border-radius: 0px;
+  border-color: black;
+  border-width: 2px;
+  box-shadow: inset 0px 0px 0px 1px #B3B3B3;
+}
+
+.row {
+  background-color: #c0c0c0;
+  border-radius: 0px;
+  color: black;
+  border: 2px solid #000000 ;
+}
+
+.bs-icon-md.bs-icon-rounded.bs-icon-primary.bs-icon {
+  background-color: transparent;
+}
+
+.text-primary {
+  color: #FF00FF !important;
+}
+
+a {
+  color: #FF00FF !important;
+}
+
+.card-body {
+  border-radius: 0px;
+  background-color: #c0c0c0;
+  border: 2px solid black ;
+  border-top-style: none;
+  height: 230px;
+}
+
+.card {
+  background-color: transparent;
+}
+
+.navbar-brand {
+  color: black !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.article-checkout {
+  position: absolute;
+  bottom: 5px;
+  right: 20px;
+}
+
+.bs-icon-sm.bs-icon-rounded.bs-icon-primary.bs-icon {
+  background-color: transparent;
+  color: black;
+}
+
